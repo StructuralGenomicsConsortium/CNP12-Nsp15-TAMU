@@ -1,6 +1,5 @@
 # CNP12-Nsp15-TAMU
-
- Everything is open, with all content governed by a CC-BY-4.0 licence.
+Everything is open, with all content governed by a CC-BY-4.0 licence.
 
 This project is part of the SGC's Open Chemistry Networks initiative.
 

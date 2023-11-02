@@ -3,7 +3,7 @@ An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 12) 
 
 Our collective aim is to find a potent, selective, cell-penetrant, small-molecule inhibitor of Nsp15, an endoribonuclease of SARS-COV-2.
 
-"To added, who's been involved"
+"To add, who's been involved"
 
 If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
 

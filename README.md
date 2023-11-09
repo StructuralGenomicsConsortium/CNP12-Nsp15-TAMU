@@ -5,15 +5,18 @@ Our collective aim is to find a potent, selective, cell-penetrant, small-molecul
 
 Some people involved in this project:
 
-Professor Matthew Todd, UCL, chemistry @mattodd
+**Chemistry**: 
 
-Dr Xin Qiu, UCL, chemistry @qxsml
+Professor Matthew Todd, UCL, @mattodd
 
-Dr Anwar Hossain, UNC, chemistry @ahsgc
+Dr Xin Qiu, UCL, @qxsml
 
-Professor James Sacchettini, biology, TAMU
+Dr Anwar Hossain, UNC, @ahsgc
 
-Dr Inna Krieger, biology, TAMU
+**Biology**
+Professor James Sacchettini, TAMU
+
+Dr Inna Krieger, TAMU
 
 If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
 

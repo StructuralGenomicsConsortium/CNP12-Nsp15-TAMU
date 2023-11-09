@@ -3,6 +3,7 @@ An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 12) 
 
 Our collective aim is to find a potent, selective, cell-penetrant, small-molecule inhibitor of Nsp15, an endoribonuclease of SARS-COV-2.
 
+
 Some people involved in this project:
 
 **Chemistry**: 
@@ -14,6 +15,7 @@ Dr Xin Qiu, UCL, @qxsml
 Dr Anwar Hossain, UNC, @ahsgc
 
 **Biology**
+
 Professor James Sacchettini, TAMU
 
 Dr Inna Krieger, TAMU

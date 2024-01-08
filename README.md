@@ -14,6 +14,8 @@ Professor Matthew Todd, UCL, @mattodd
 
 Dr Xin Qiu, UCL, @qxsml
 
+Professor Tim Willson, @tmw20653
+
 Dr Anwar Hossain, UNC, @ahsgc
 
 **Biology:**
@@ -21,6 +23,10 @@ Dr Anwar Hossain, UNC, @ahsgc
 Professor James Sacchettini, TAMU
 
 Dr Inna Krieger, TAMU
+
+Dr Jelena (Habjanič) Thies, UCL
+
+Professor Nicholas Heaton, Duke University
 
 If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
 

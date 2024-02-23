@@ -33,6 +33,8 @@ Professor James Sacchettini, TAMU
 
 Dr Inna Krieger, TAMU  
 
+Dr Da Di, TAMU
+
 Dr Jelena (Habjanič) Thies, UCL  
 
 Professor Nicholas Heaton, Duke University  

@@ -1,7 +1,7 @@
 # CNP12-Nsp15-TAMU 
 An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 12) devoted to the target SARS-CoV-2 Nsp15. 
 
-More details can be found in [wiki](https://github.com/StructuralGenomicsConsortium/CNP12-Nsp15-TAMU/wiki). Our current progress can be found [here](https://github.com/StructuralGenomicsConsortium/CNP12-Nsp15-TAMU/wiki/The-Story-so-Far).
+More details can be found in [wiki](https://github.com/StructuralGenomicsConsortium/CNP12-Nsp15-TAMU/wiki). Our current progress can be found [here](https://github.com/StructuralGenomicsConsortium/CNP12-Nsp15-TAMU/wiki/The-Story-so-Far). Linkage to all the data can be found [here](https://github.com/StructuralGenomicsConsortium/CNP12-Nsp15-TAMU/issues/5)
 
 Our collective aim is to find a potent, selective, cell-penetrant, small-molecule inhibitor of Nsp15, an endoribonuclease of SARS-CoV-2. This will allow us to understand this target and kick-start drug discovery projects around it. The project is run as part of the READDI-AViDD consortium.
 

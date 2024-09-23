@@ -19,15 +19,21 @@ Some people involved in this project:
 
 Professor Matthew Todd, UCL, @mattodd  
 
+Dr Rahman Saleem
+
 Dr Xin Qiu, UCL, @qxsml  
 
 Professor Tim Willson, @tmw20653 
 
-Dr Peter Brown, University North Carolina Chapel Hill, project manager @toluene44  
+Dr Peter Brown, UNC, project manager @toluene44  
 
 Dr Anwar Hossain, UNC, @ahsgc  
 
 **Biology:**
+
+Dr Wenjie Cheng, UCL
+
+Dr Jelena (Habjanič) Thies, UCL  
 
 Professor James Sacchettini, TAMU  
 
@@ -35,11 +41,8 @@ Dr Inna Krieger, TAMU
 
 Dr Da Di, TAMU
 
-Dr Jelena (Habjanič) Thies, UCL  
+Professor Nicholas Heaton, DKU 
 
-Dr Wenjie Cheng, UCL
-
-Professor Nicholas Heaton, Duke University  
-
+Dr Hector Miranda Gonzalez, DKU
 
 <a href="url"><img src="https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/blob/main/Open%20Chemistry%20Networks%20Logos/OCN_Logo_Final_smban.png?raw=true" align="centre" height="300" ></a>
